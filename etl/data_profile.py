@@ -1,6 +1,6 @@
 import json
 
-INPUT_FILE = "data/raw/games.json"
+INPUT_FILE = "../data/data/raw/games.json"
 
 FIELDS_TO_CHECK = [
     "released",

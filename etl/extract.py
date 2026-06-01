@@ -51,7 +51,7 @@ def extract_paginated_resource(
 
         page += 1
 
-    output_path = f"data/raw/{output_file}"
+    output_path = f"../data/data/raw/{output_file}"
 
     with open(
         output_path,

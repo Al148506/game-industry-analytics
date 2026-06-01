@@ -60,3 +60,24 @@ CREATE TABLE IF NOT EXISTS game_platforms (
         FOREIGN KEY (platform_id)
         REFERENCES platforms(id)
 );
+
+CREATE TABLE IF NOT EXISTS stores (
+    id INTEGER PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    slug VARCHAR(150) NOT NULL
+);
+
+CREATE TABLE IF NOT EXISTS game_stores (
+    game_id INTEGER NOT NULL,
+    store_id INTEGER NOT NULL,
+
+    PRIMARY KEY (game_id, store_id),
+
+    CONSTRAINT fk_game_store
+        FOREIGN KEY (game_id)
+        REFERENCES games(id),
+
+    CONSTRAINT fk_store
+        FOREIGN KEY (store_id)
+        REFERENCES stores(id)
+);
