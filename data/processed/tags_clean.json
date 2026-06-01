@@ -1,0 +1,4127 @@
+[
+    {
+        "id": 31,
+        "name": "Singleplayer",
+        "slug": "singleplayer"
+    },
+    {
+        "id": 40847,
+        "name": "Steam Achievements",
+        "slug": "steam-achievements"
+    },
+    {
+        "id": 7,
+        "name": "Multiplayer",
+        "slug": "multiplayer"
+    },
+    {
+        "id": 40836,
+        "name": "Full controller support",
+        "slug": "full-controller-support"
+    },
+    {
+        "id": 13,
+        "name": "Atmospheric",
+        "slug": "atmospheric"
+    },
+    {
+        "id": 42,
+        "name": "Great Soundtrack",
+        "slug": "great-soundtrack"
+    },
+    {
+        "id": 24,
+        "name": "RPG",
+        "slug": "rpg"
+    },
+    {
+        "id": 18,
+        "name": "Co-op",
+        "slug": "co-op"
+    },
+    {
+        "id": 36,
+        "name": "Open World",
+        "slug": "open-world"
+    },
+    {
+        "id": 411,
+        "name": "cooperative",
+        "slug": "cooperative"
+    },
+    {
+        "id": 8,
+        "name": "First-Person",
+        "slug": "first-person"
+    },
+    {
+        "id": 149,
+        "name": "Third Person",
+        "slug": "third-person"
+    },
+    {
+        "id": 4,
+        "name": "Funny",
+        "slug": "funny"
+    },
+    {
+        "id": 37,
+        "name": "Sandbox",
+        "slug": "sandbox"
+    },
+    {
+        "id": 123,
+        "name": "Comedy",
+        "slug": "comedy"
+    },
+    {
+        "id": 150,
+        "name": "Third-Person Shooter",
+        "slug": "third-person-shooter"
+    },
+    {
+        "id": 62,
+        "name": "Moddable",
+        "slug": "moddable"
+    },
+    {
+        "id": 144,
+        "name": "Crime",
+        "slug": "crime"
+    },
+    {
+        "id": 62349,
+        "name": "vr mod",
+        "slug": "vr-mod"
+    },
+    {
+        "id": 118,
+        "name": "Story Rich",
+        "slug": "story-rich"
+    },
+    {
+        "id": 64,
+        "name": "Fantasy",
+        "slug": "fantasy"
+    },
+    {
+        "id": 97,
+        "name": "Action RPG",
+        "slug": "action-rpg"
+    },
+    {
+        "id": 41,
+        "name": "Dark",
+        "slug": "dark"
+    },
+    {
+        "id": 44,
+        "name": "Nudity",
+        "slug": "nudity"
+    },
+    {
+        "id": 336,
+        "name": "controller support",
+        "slug": "controller-support"
+    },
+    {
+        "id": 145,
+        "name": "Choices Matter",
+        "slug": "choices-matter"
+    },
+    {
+        "id": 40,
+        "name": "Dark Fantasy",
+        "slug": "dark-fantasy"
+    },
+    {
+        "id": 192,
+        "name": "Mature",
+        "slug": "mature"
+    },
+    {
+        "id": 66,
+        "name": "Medieval",
+        "slug": "medieval"
+    },
+    {
+        "id": 82,
+        "name": "Magic",
+        "slug": "magic"
+    },
+    {
+        "id": 218,
+        "name": "Multiple Endings",
+        "slug": "multiple-endings"
+    },
+    {
+        "id": 40849,
+        "name": "Steam Cloud",
+        "slug": "steam-cloud"
+    },
+    {
+        "id": 7808,
+        "name": "steam-trading-cards",
+        "slug": "steam-trading-cards"
+    },
+    {
+        "id": 32,
+        "name": "Sci-fi",
+        "slug": "sci-fi"
+    },
+    {
+        "id": 30,
+        "name": "FPS",
+        "slug": "fps"
+    },
+    {
+        "id": 9,
+        "name": "Online Co-Op",
+        "slug": "online-co-op"
+    },
+    {
+        "id": 189,
+        "name": "Female Protagonist",
+        "slug": "female-protagonist"
+    },
+    {
+        "id": 75,
+        "name": "Local Co-Op",
+        "slug": "local-co-op"
+    },
+    {
+        "id": 11669,
+        "name": "stats",
+        "slug": "stats"
+    },
+    {
+        "id": 40852,
+        "name": "Steam Workshop",
+        "slug": "steam-workshop"
+    },
+    {
+        "id": 25,
+        "name": "Space",
+        "slug": "space"
+    },
+    {
+        "id": 40838,
+        "name": "Includes level editor",
+        "slug": "includes-level-editor"
+    },
+    {
+        "id": 40833,
+        "name": "Captions available",
+        "slug": "captions-available"
+    },
+    {
+        "id": 40834,
+        "name": "Commentary available",
+        "slug": "commentary-available"
+    },
+    {
+        "id": 87,
+        "name": "Science",
+        "slug": "science"
+    },
+    {
+        "id": 80,
+        "name": "Tactical",
+        "slug": "tactical"
+    },
+    {
+        "id": 157,
+        "name": "PvP",
+        "slug": "pvp"
+    },
+    {
+        "id": 70,
+        "name": "War",
+        "slug": "war"
+    },
+    {
+        "id": 40837,
+        "name": "In-App Purchases",
+        "slug": "in-app-purchases"
+    },
+    {
+        "id": 77,
+        "name": "Realistic",
+        "slug": "realistic"
+    },
+    {
+        "id": 11,
+        "name": "Team-Based",
+        "slug": "team-based"
+    },
+    {
+        "id": 131,
+        "name": "Fast-Paced",
+        "slug": "fast-paced"
+    },
+    {
+        "id": 81,
+        "name": "Military",
+        "slug": "military"
+    },
+    {
+        "id": 170,
+        "name": "Competitive",
+        "slug": "competitive"
+    },
+    {
+        "id": 40856,
+        "name": "Valve Anti-Cheat enabled",
+        "slug": "valve-anti-cheat-enabled"
+    },
+    {
+        "id": 73,
+        "name": "e-sports",
+        "slug": "e-sports"
+    },
+    {
+        "id": 245,
+        "name": "Trading",
+        "slug": "trading"
+    },
+    {
+        "id": 6,
+        "name": "Exploration",
+        "slug": "exploration"
+    },
+    {
+        "id": 193,
+        "name": "Classic",
+        "slug": "classic"
+    },
+    {
+        "id": 15,
+        "name": "Stealth",
+        "slug": "stealth"
+    },
+    {
+        "id": 69,
+        "name": "Action-Adventure",
+        "slug": "action-adventure"
+    },
+    {
+        "id": 74,
+        "name": "Retro",
+        "slug": "retro"
+    },
+    {
+        "id": 110,
+        "name": "Cinematic",
+        "slug": "cinematic"
+    },
+    {
+        "id": 269,
+        "name": "Quick-Time Events",
+        "slug": "quick-time-events"
+    },
+    {
+        "id": 126,
+        "name": "Dinosaurs",
+        "slug": "dinosaurs"
+    },
+    {
+        "id": 306,
+        "name": "Lara Croft",
+        "slug": "lara-croft"
+    },
+    {
+        "id": 40845,
+        "name": "Partial Controller Support",
+        "slug": "partial-controller-support"
+    },
+    {
+        "id": 111,
+        "name": "Short",
+        "slug": "short"
+    },
+    {
+        "id": 114,
+        "name": "Physics",
+        "slug": "physics"
+    },
+    {
+        "id": 148,
+        "name": "Dark Humor",
+        "slug": "dark-humor"
+    },
+    {
+        "id": 40839,
+        "name": "Includes Source SDK",
+        "slug": "includes-source-sdk"
+    },
+    {
+        "id": 16,
+        "name": "Horror",
+        "slug": "horror"
+    },
+    {
+        "id": 26,
+        "name": "Gore",
+        "slug": "gore"
+    },
+    {
+        "id": 1,
+        "name": "Survival",
+        "slug": "survival"
+    },
+    {
+        "id": 63,
+        "name": "Zombies",
+        "slug": "zombies"
+    },
+    {
+        "id": 17,
+        "name": "Survival Horror",
+        "slug": "survival-horror"
+    },
+    {
+        "id": 43,
+        "name": "Post-apocalyptic",
+        "slug": "post-apocalyptic"
+    },
+    {
+        "id": 5,
+        "name": "Replay Value",
+        "slug": "replay-value"
+    },
+    {
+        "id": 34,
+        "name": "Violent",
+        "slug": "violent"
+    },
+    {
+        "id": 89,
+        "name": "Historical",
+        "slug": "historical"
+    },
+    {
+        "id": 45878,
+        "name": "Online PvP",
+        "slug": "online-pvp"
+    },
+    {
+        "id": 478,
+        "name": "3rd-Person Perspective",
+        "slug": "3rd-person-perspective"
+    },
+    {
+        "id": 270,
+        "name": "Blood",
+        "slug": "blood"
+    },
+    {
+        "id": 78,
+        "name": "America",
+        "slug": "america"
+    },
+    {
+        "id": 578,
+        "name": "Masterpiece",
+        "slug": "masterpiece"
+    },
+    {
+        "id": 577,
+        "name": "Beautiful",
+        "slug": "beautiful"
+    },
+    {
+        "id": 181,
+        "name": "Hunting",
+        "slug": "hunting"
+    },
+    {
+        "id": 152,
+        "name": "Western",
+        "slug": "western"
+    },
+    {
+        "id": 5452,
+        "name": "3rd-person",
+        "slug": "3rd-person"
+    },
+    {
+        "id": 468,
+        "name": "role-playing",
+        "slug": "role-playing"
+    },
+    {
+        "id": 121,
+        "name": "Character Customization",
+        "slug": "character-customization"
+    },
+    {
+        "id": 205,
+        "name": "Lore-Rich",
+        "slug": "lore-rich"
+    },
+    {
+        "id": 215,
+        "name": "Dragons",
+        "slug": "dragons"
+    },
+    {
+        "id": 172,
+        "name": "Aliens",
+        "slug": "aliens"
+    },
+    {
+        "id": 119,
+        "name": "Dystopian",
+        "slug": "dystopian"
+    },
+    {
+        "id": 319,
+        "name": "Silent Protagonist",
+        "slug": "silent-protagonist"
+    },
+    {
+        "id": 115,
+        "name": "Controller",
+        "slug": "controller"
+    },
+    {
+        "id": 305,
+        "name": "Linear",
+        "slug": "linear"
+    },
+    {
+        "id": 154,
+        "name": "Steampunk",
+        "slug": "steampunk"
+    },
+    {
+        "id": 208,
+        "name": "Alternate History",
+        "slug": "alternate-history"
+    },
+    {
+        "id": 317,
+        "name": "Time Travel",
+        "slug": "time-travel"
+    },
+    {
+        "id": 287,
+        "name": "Political",
+        "slug": "political"
+    },
+    {
+        "id": 167,
+        "name": "Futuristic",
+        "slug": "futuristic"
+    },
+    {
+        "id": 120,
+        "name": "Memes",
+        "slug": "memes"
+    },
+    {
+        "id": 166,
+        "name": "Stylized",
+        "slug": "stylized"
+    },
+    {
+        "id": 98,
+        "name": "Loot",
+        "slug": "loot"
+    },
+    {
+        "id": 141,
+        "name": "Point & Click",
+        "slug": "point-click"
+    },
+    {
+        "id": 117,
+        "name": "Mystery",
+        "slug": "mystery"
+    },
+    {
+        "id": 91,
+        "name": "Walking Simulator",
+        "slug": "walking-simulator"
+    },
+    {
+        "id": 406,
+        "name": "Story",
+        "slug": "story"
+    },
+    {
+        "id": 232,
+        "name": "Episodic",
+        "slug": "episodic"
+    },
+    {
+        "id": 295,
+        "name": "Soundtrack",
+        "slug": "soundtrack"
+    },
+    {
+        "id": 302,
+        "name": "Time Manipulation",
+        "slug": "time-manipulation"
+    },
+    {
+        "id": 992,
+        "name": "student",
+        "slug": "student"
+    },
+    {
+        "id": 2682,
+        "name": "strange",
+        "slug": "strange"
+    },
+    {
+        "id": 3197,
+        "name": "photography",
+        "slug": "photography"
+    },
+    {
+        "id": 250,
+        "name": "Underwater",
+        "slug": "underwater"
+    },
+    {
+        "id": 79,
+        "name": "Free to Play",
+        "slug": "free-to-play"
+    },
+    {
+        "id": 397,
+        "name": "Online multiplayer",
+        "slug": "online-multiplayer"
+    },
+    {
+        "id": 1465,
+        "name": "combat",
+        "slug": "combat"
+    },
+    {
+        "id": 413,
+        "name": "online",
+        "slug": "online"
+    },
+    {
+        "id": 158,
+        "name": "MMORPG",
+        "slug": "mmorpg"
+    },
+    {
+        "id": 171,
+        "name": "PvE",
+        "slug": "pve"
+    },
+    {
+        "id": 2030,
+        "name": "city",
+        "slug": "city"
+    },
+    {
+        "id": 5816,
+        "name": "console",
+        "slug": "console"
+    },
+    {
+        "id": 744,
+        "name": "friends",
+        "slug": "friends"
+    },
+    {
+        "id": 3109,
+        "name": "weapons",
+        "slug": "weapons"
+    },
+    {
+        "id": 1484,
+        "name": "skill",
+        "slug": "skill"
+    },
+    {
+        "id": 3046,
+        "name": "destroy",
+        "slug": "destroy"
+    },
+    {
+        "id": 1743,
+        "name": "collect",
+        "slug": "collect"
+    },
+    {
+        "id": 2184,
+        "name": "hunt",
+        "slug": "hunt"
+    },
+    {
+        "id": 754,
+        "name": "gun",
+        "slug": "gun"
+    },
+    {
+        "id": 1527,
+        "name": "rain",
+        "slug": "rain"
+    },
+    {
+        "id": 18426,
+        "name": "enemy",
+        "slug": "enemy"
+    },
+    {
+        "id": 691,
+        "name": "quick",
+        "slug": "quick"
+    },
+    {
+        "id": 2863,
+        "name": "darkness",
+        "slug": "darkness"
+    },
+    {
+        "id": 6580,
+        "name": "defender",
+        "slug": "defender"
+    },
+    {
+        "id": 68,
+        "name": "Hack and Slash",
+        "slug": "hack-and-slash"
+    },
+    {
+        "id": 37796,
+        "name": "exclusive",
+        "slug": "exclusive"
+    },
+    {
+        "id": 571,
+        "name": "3D",
+        "slug": "3d"
+    },
+    {
+        "id": 125,
+        "name": "Crafting",
+        "slug": "crafting"
+    },
+    {
+        "id": 37797,
+        "name": "true exclusive",
+        "slug": "true-exclusive"
+    },
+    {
+        "id": 572,
+        "name": "Emotional",
+        "slug": "emotional"
+    },
+    {
+        "id": 580,
+        "name": "Souls-like",
+        "slug": "souls-like"
+    },
+    {
+        "id": 108,
+        "name": "Mythology",
+        "slug": "mythology"
+    },
+    {
+        "id": 43374,
+        "name": "Remote Play on TV",
+        "slug": "remote-play-on-tv"
+    },
+    {
+        "id": 45,
+        "name": "2D",
+        "slug": "2d"
+    },
+    {
+        "id": 49,
+        "name": "Difficult",
+        "slug": "difficult"
+    },
+    {
+        "id": 122,
+        "name": "Pixel Graphics",
+        "slug": "pixel-graphics"
+    },
+    {
+        "id": 113,
+        "name": "Side Scroller",
+        "slug": "side-scroller"
+    },
+    {
+        "id": 46,
+        "name": "Surreal",
+        "slug": "surreal"
+    },
+    {
+        "id": 83,
+        "name": "Puzzle-Platformer",
+        "slug": "puzzle-platformer"
+    },
+    {
+        "id": 91686,
+        "name": "Family Sharing",
+        "slug": "family-sharing"
+    },
+    {
+        "id": 112,
+        "name": "Minimalist",
+        "slug": "minimalist"
+    },
+    {
+        "id": 289,
+        "name": "Noir",
+        "slug": "noir"
+    },
+    {
+        "id": 135,
+        "name": "2D Fighter",
+        "slug": "2d-fighter"
+    },
+    {
+        "id": 49959,
+        "name": "2D Platformer",
+        "slug": "2d-platformer-3"
+    },
+    {
+        "id": 49995,
+        "name": "2D-платформер",
+        "slug": "2d-platformer-4"
+    },
+    {
+        "id": 56825,
+        "name": "2D-файтинг",
+        "slug": "2d-faiting"
+    },
+    {
+        "id": 216,
+        "name": "Heist",
+        "slug": "heist"
+    },
+    {
+        "id": 274,
+        "name": "Gun Customization",
+        "slug": "gun-customization"
+    },
+    {
+        "id": 40832,
+        "name": "Cross-Platform Multiplayer",
+        "slug": "cross-platform-multiplayer"
+    },
+    {
+        "id": 197,
+        "name": "Robots",
+        "slug": "robots"
+    },
+    {
+        "id": 164,
+        "name": "Cartoony",
+        "slug": "cartoony"
+    },
+    {
+        "id": 179,
+        "name": "Cartoon",
+        "slug": "cartoon"
+    },
+    {
+        "id": 265,
+        "name": "Class-Based",
+        "slug": "class-based"
+    },
+    {
+        "id": 271,
+        "name": "Remake",
+        "slug": "remake"
+    },
+    {
+        "id": 187,
+        "name": "Demons",
+        "slug": "demons"
+    },
+    {
+        "id": 50,
+        "name": "Sexual Content",
+        "slug": "sexual-content"
+    },
+    {
+        "id": 226,
+        "name": "Cyberpunk",
+        "slug": "cyberpunk"
+    },
+    {
+        "id": 227,
+        "name": "Hacking",
+        "slug": "hacking"
+    },
+    {
+        "id": 467,
+        "name": "Role Playing Game",
+        "slug": "role-playing-game"
+    },
+    {
+        "id": 1500,
+        "name": "immersive",
+        "slug": "immersive"
+    },
+    {
+        "id": 683,
+        "name": "Photorealistic",
+        "slug": "photorealistic"
+    },
+    {
+        "id": 107,
+        "name": "Family Friendly",
+        "slug": "family-friendly"
+    },
+    {
+        "id": 39,
+        "name": "Building",
+        "slug": "building"
+    },
+    {
+        "id": 337,
+        "name": "overlay",
+        "slug": "overlay"
+    },
+    {
+        "id": 153,
+        "name": "Satire",
+        "slug": "satire"
+    },
+    {
+        "id": 62348,
+        "name": "first person mod",
+        "slug": "first-person-mod"
+    },
+    {
+        "id": 321,
+        "name": "Bowling",
+        "slug": "bowling"
+    },
+    {
+        "id": 168,
+        "name": "RTS",
+        "slug": "rts"
+    },
+    {
+        "id": 65,
+        "name": "Tower Defense",
+        "slug": "tower-defense"
+    },
+    {
+        "id": 169,
+        "name": "MOBA",
+        "slug": "moba"
+    },
+    {
+        "id": 40909,
+        "name": "SteamVR Collectibles",
+        "slug": "steamvr-collectibles"
+    },
+    {
+        "id": 188,
+        "name": "Parkour",
+        "slug": "parkour"
+    },
+    {
+        "id": 186,
+        "name": "Ninja",
+        "slug": "ninja"
+    },
+    {
+        "id": 38844,
+        "name": "looter shooter",
+        "slug": "looter-shooter"
+    },
+    {
+        "id": 198,
+        "name": "Split Screen",
+        "slug": "split-screen"
+    },
+    {
+        "id": 72,
+        "name": "Local Multiplayer",
+        "slug": "local-multiplayer"
+    },
+    {
+        "id": 182,
+        "name": "4 Player Local",
+        "slug": "4-player-local"
+    },
+    {
+        "id": 87822,
+        "name": "4 giocatori divano",
+        "slug": "4-giocatori-divano"
+    },
+    {
+        "id": 191,
+        "name": "Football",
+        "slug": "football"
+    },
+    {
+        "id": 190,
+        "name": "Soccer",
+        "slug": "soccer"
+    },
+    {
+        "id": 87821,
+        "name": "lan party",
+        "slug": "lan-party-2"
+    },
+    {
+        "id": 209,
+        "name": "Drama",
+        "slug": "drama"
+    },
+    {
+        "id": 324,
+        "name": "Experience",
+        "slug": "experience"
+    },
+    {
+        "id": 43574,
+        "name": "open-world",
+        "slug": "open-world-2"
+    },
+    {
+        "id": 6498,
+        "name": "atmosphere",
+        "slug": "atmosphere"
+    },
+    {
+        "id": 133,
+        "name": "3D Vision",
+        "slug": "3d-vision"
+    },
+    {
+        "id": 283,
+        "name": "Based On A Novel",
+        "slug": "based-on-a-novel"
+    },
+    {
+        "id": 296,
+        "name": "Benchmark",
+        "slug": "benchmark"
+    },
+    {
+        "id": 40850,
+        "name": "Steam Leaderboards",
+        "slug": "steam-leaderboards"
+    },
+    {
+        "id": 203,
+        "name": "Beat 'em up",
+        "slug": "beat-em-up"
+    },
+    {
+        "id": 142,
+        "name": "Detective",
+        "slug": "detective"
+    },
+    {
+        "id": 268,
+        "name": "Comic Book",
+        "slug": "comic-book"
+    },
+    {
+        "id": 234,
+        "name": "Superhero",
+        "slug": "superhero"
+    },
+    {
+        "id": 328,
+        "name": "Batman",
+        "slug": "batman"
+    },
+    {
+        "id": 128,
+        "name": "Horses",
+        "slug": "horses"
+    },
+    {
+        "id": 130,
+        "name": "Driving",
+        "slug": "driving"
+    },
+    {
+        "id": 43578,
+        "name": "Remote Play on Tablet",
+        "slug": "remote-play-on-tablet"
+    },
+    {
+        "id": 43577,
+        "name": "Remote Play on Phone",
+        "slug": "remote-play-on-phone"
+    },
+    {
+        "id": 18188,
+        "name": "controversial",
+        "slug": "controversial"
+    },
+    {
+        "id": 74338,
+        "name": "karaihb",
+        "slug": "karaihb"
+    },
+    {
+        "id": 146,
+        "name": "Nonlinear",
+        "slug": "nonlinear"
+    },
+    {
+        "id": 35162,
+        "name": "Battle Royale",
+        "slug": "battle-royale-2"
+    },
+    {
+        "id": 49953,
+        "name": "Hero Shooter",
+        "slug": "hero-shooter-2"
+    },
+    {
+        "id": 12983,
+        "name": "lootboxes",
+        "slug": "lootboxes"
+    },
+    {
+        "id": 88,
+        "name": "Cute",
+        "slug": "cute"
+    },
+    {
+        "id": 259,
+        "name": "Metroidvania",
+        "slug": "metroidvania"
+    },
+    {
+        "id": 258,
+        "name": "Hand-drawn",
+        "slug": "hand-drawn"
+    },
+    {
+        "id": 204,
+        "name": "Gothic",
+        "slug": "gothic"
+    },
+    {
+        "id": 278,
+        "name": "Assassin",
+        "slug": "assassin"
+    },
+    {
+        "id": 5842,
+        "name": "steam",
+        "slug": "steam"
+    },
+    {
+        "id": 7517,
+        "name": "category",
+        "slug": "category"
+    },
+    {
+        "id": 44631,
+        "name": "microtranzations",
+        "slug": "microtranzations"
+    },
+    {
+        "id": 178,
+        "name": "Illuminati",
+        "slug": "illuminati"
+    },
+    {
+        "id": 90,
+        "name": "Visual Novel",
+        "slug": "visual-novel"
+    },
+    {
+        "id": 222,
+        "name": "Choose Your Own Adventure",
+        "slug": "choose-your-own-adventure"
+    },
+    {
+        "id": 334,
+        "name": "achievements",
+        "slug": "achievements"
+    },
+    {
+        "id": 116,
+        "name": "2.5D",
+        "slug": "25d"
+    },
+    {
+        "id": 281,
+        "name": "Philisophical",
+        "slug": "philisophical"
+    },
+    {
+        "id": 243,
+        "name": "1990's",
+        "slug": "1990s"
+    },
+    {
+        "id": 138,
+        "name": "Relaxing",
+        "slug": "relaxing"
+    },
+    {
+        "id": 160,
+        "name": "Dating Sim",
+        "slug": "dating-sim"
+    },
+    {
+        "id": 46112,
+        "name": "Shared/Split Screen Co-op",
+        "slug": "sharedsplit-screen-co-op"
+    },
+    {
+        "id": 338,
+        "name": "cloud saves",
+        "slug": "cloud-saves"
+    },
+    {
+        "id": 155,
+        "name": "Fishing",
+        "slug": "fishing"
+    },
+    {
+        "id": 159,
+        "name": "Agriculture",
+        "slug": "agriculture"
+    },
+    {
+        "id": 409,
+        "name": "co-op multiplayer",
+        "slug": "co-op-multiplayer"
+    },
+    {
+        "id": 165,
+        "name": "Colorful",
+        "slug": "colorful"
+    },
+    {
+        "id": 280,
+        "name": "Time Attack",
+        "slug": "time-attack"
+    },
+    {
+        "id": 19728,
+        "name": "european",
+        "slug": "european"
+    },
+    {
+        "id": 61,
+        "name": "Top-Down",
+        "slug": "top-down"
+    },
+    {
+        "id": 136,
+        "name": "Music",
+        "slug": "music"
+    },
+    {
+        "id": 224,
+        "name": "1980s",
+        "slug": "1980s"
+    },
+    {
+        "id": 236,
+        "name": "Top-Down Shooter",
+        "slug": "top-down-shooter"
+    },
+    {
+        "id": 286,
+        "name": "Psychedelic",
+        "slug": "psychedelic"
+    },
+    {
+        "id": 291,
+        "name": "Conspiracy",
+        "slug": "conspiracy"
+    },
+    {
+        "id": 301,
+        "name": "Transhumanism",
+        "slug": "transhumanism"
+    },
+    {
+        "id": 1656,
+        "name": "mmo",
+        "slug": "mmo"
+    },
+    {
+        "id": 48,
+        "name": "Dungeon Crawler",
+        "slug": "dungeon-crawler"
+    },
+    {
+        "id": 272,
+        "name": "Inventory Management",
+        "slug": "inventory-management"
+    },
+    {
+        "id": 200,
+        "name": "Narration",
+        "slug": "narration"
+    },
+    {
+        "id": 279,
+        "name": "Supernatural",
+        "slug": "supernatural"
+    },
+    {
+        "id": 183,
+        "name": "Thriller",
+        "slug": "thriller"
+    },
+    {
+        "id": 36002,
+        "name": "psycholoical-horror",
+        "slug": "psycholoical-horror"
+    },
+    {
+        "id": 7629,
+        "name": "enviroment",
+        "slug": "enviroment"
+    },
+    {
+        "id": 43369,
+        "name": "new york",
+        "slug": "new-york-2"
+    },
+    {
+        "id": 105,
+        "name": "World War II",
+        "slug": "world-war-ii"
+    },
+    {
+        "id": 309,
+        "name": "Dynamic Narration",
+        "slug": "dynamic-narration"
+    },
+    {
+        "id": 2071,
+        "name": "futurism",
+        "slug": "futurism"
+    },
+    {
+        "id": 244,
+        "name": "Mod",
+        "slug": "mod"
+    },
+    {
+        "id": 95,
+        "name": "Animation & Modeling",
+        "slug": "animation-modeling"
+    },
+    {
+        "id": 47,
+        "name": "Lovecraftian",
+        "slug": "lovecraftian"
+    },
+    {
+        "id": 285,
+        "name": "Psychological",
+        "slug": "psychological"
+    },
+    {
+        "id": 42473,
+        "name": "Immersive Sim",
+        "slug": "immersive-sim-2"
+    },
+    {
+        "id": 639,
+        "name": "Roguelike",
+        "slug": "roguelike"
+    },
+    {
+        "id": 180,
+        "name": "Base Building",
+        "slug": "base-building"
+    },
+    {
+        "id": 194,
+        "name": "Real-Time with Pause",
+        "slug": "real-time-with-pause"
+    },
+    {
+        "id": 210,
+        "name": "Real-Time",
+        "slug": "real-time"
+    },
+    {
+        "id": 55,
+        "name": "Tanks",
+        "slug": "tanks"
+    },
+    {
+        "id": 255,
+        "name": "Pirates",
+        "slug": "pirates"
+    },
+    {
+        "id": 256,
+        "name": "Naval",
+        "slug": "naval"
+    },
+    {
+        "id": 54,
+        "name": "Score Attack",
+        "slug": "score-attack"
+    },
+    {
+        "id": 102,
+        "name": "Turn-Based",
+        "slug": "turn-based"
+    },
+    {
+        "id": 101,
+        "name": "Turn-Based Strategy",
+        "slug": "turn-based-strategy"
+    },
+    {
+        "id": 195,
+        "name": "Economy",
+        "slug": "economy"
+    },
+    {
+        "id": 100,
+        "name": "Grand Strategy",
+        "slug": "grand-strategy"
+    },
+    {
+        "id": 60,
+        "name": "Touch-Friendly",
+        "slug": "touch-friendly"
+    },
+    {
+        "id": 86,
+        "name": "Education",
+        "slug": "education"
+    },
+    {
+        "id": 212,
+        "name": "4X",
+        "slug": "4x"
+    },
+    {
+        "id": 103,
+        "name": "Hex Grid",
+        "slug": "hex-grid"
+    },
+    {
+        "id": 211,
+        "name": "Diplomacy",
+        "slug": "diplomacy"
+    },
+    {
+        "id": 84,
+        "name": "Abstract",
+        "slug": "abstract"
+    },
+    {
+        "id": 788,
+        "name": "realism",
+        "slug": "realism"
+    },
+    {
+        "id": 2468,
+        "name": "paranormal",
+        "slug": "paranormal"
+    },
+    {
+        "id": 326,
+        "name": "Investigation",
+        "slug": "investigation"
+    },
+    {
+        "id": 266,
+        "name": "Level Editor",
+        "slug": "level-editor"
+    },
+    {
+        "id": 49963,
+        "name": "Precision Platformer",
+        "slug": "precision-platformer-2"
+    },
+    {
+        "id": 185,
+        "name": "Swordplay",
+        "slug": "swordplay"
+    },
+    {
+        "id": 318,
+        "name": "Star Wars",
+        "slug": "star-wars"
+    },
+    {
+        "id": 84157,
+        "name": "ea play",
+        "slug": "ea-play"
+    },
+    {
+        "id": 3459,
+        "name": "cinema",
+        "slug": "cinema"
+    },
+    {
+        "id": 21400,
+        "name": "lightsaber",
+        "slug": "lightsaber"
+    },
+    {
+        "id": 503,
+        "name": "Singe-player",
+        "slug": "singe-player"
+    },
+    {
+        "id": 217,
+        "name": "Romance",
+        "slug": "romance"
+    },
+    {
+        "id": 51,
+        "name": "Destruction",
+        "slug": "destruction"
+    },
+    {
+        "id": 1897,
+        "name": "fire",
+        "slug": "fire"
+    },
+    {
+        "id": 3397,
+        "name": "light",
+        "slug": "light"
+    },
+    {
+        "id": 14,
+        "name": "Early Access",
+        "slug": "early-access"
+    },
+    {
+        "id": 99,
+        "name": "Isometric",
+        "slug": "isometric"
+    },
+    {
+        "id": 640,
+        "name": "Roguelite",
+        "slug": "roguelite"
+    },
+    {
+        "id": 124,
+        "name": "Perma Death",
+        "slug": "perma-death"
+    },
+    {
+        "id": 3383,
+        "name": "dungeons",
+        "slug": "dungeons"
+    },
+    {
+        "id": 251,
+        "name": "Cold War",
+        "slug": "cold-war"
+    },
+    {
+        "id": 134,
+        "name": "Anime",
+        "slug": "anime"
+    },
+    {
+        "id": 233,
+        "name": "JRPG",
+        "slug": "jrpg"
+    },
+    {
+        "id": 57,
+        "name": "Bullet Hell",
+        "slug": "bullet-hell"
+    },
+    {
+        "id": 304,
+        "name": "Character Action Game",
+        "slug": "character-action-game"
+    },
+    {
+        "id": 254,
+        "name": "Spectacle fighter",
+        "slug": "spectacle-fighter"
+    },
+    {
+        "id": 4441,
+        "name": "cube",
+        "slug": "cube"
+    },
+    {
+        "id": 14973,
+        "name": "modding",
+        "slug": "modding"
+    },
+    {
+        "id": 1372,
+        "name": "procedural-generation",
+        "slug": "procedural-generation-2"
+    },
+    {
+        "id": 624,
+        "name": "Monsters",
+        "slug": "monsters"
+    },
+    {
+        "id": 30084,
+        "name": "movie-based",
+        "slug": "movie-based"
+    },
+    {
+        "id": 33,
+        "name": "VR",
+        "slug": "vr"
+    },
+    {
+        "id": 201,
+        "name": "Twin Stick Shooter",
+        "slug": "twin-stick-shooter"
+    },
+    {
+        "id": 583,
+        "name": "Narrative",
+        "slug": "narrative"
+    },
+    {
+        "id": 40937,
+        "name": "Steam Trading Cards",
+        "slug": "steam-trading-cards-2"
+    },
+    {
+        "id": 184,
+        "name": "Mechs",
+        "slug": "mechs"
+    },
+    {
+        "id": 7413,
+        "name": "grappling-hook",
+        "slug": "grappling-hook"
+    },
+    {
+        "id": 67,
+        "name": "Management",
+        "slug": "management"
+    },
+    {
+        "id": 147,
+        "name": "Resource Management",
+        "slug": "resource-management"
+    },
+    {
+        "id": 213,
+        "name": "City Builder",
+        "slug": "city-builder"
+    },
+    {
+        "id": 151,
+        "name": "Modern",
+        "slug": "modern"
+    },
+    {
+        "id": 1468,
+        "name": "calm",
+        "slug": "calm"
+    },
+    {
+        "id": 1470,
+        "name": "peaceful",
+        "slug": "peaceful"
+    },
+    {
+        "id": 29,
+        "name": "Games Workshop",
+        "slug": "games-workshop"
+    },
+    {
+        "id": 176,
+        "name": "Turn-Based Tactics",
+        "slug": "turn-based-tactics"
+    },
+    {
+        "id": 31352,
+        "name": "microtransactions",
+        "slug": "microtransactions"
+    },
+    {
+        "id": 175,
+        "name": "Turn-Based Combat",
+        "slug": "turn-based-combat"
+    },
+    {
+        "id": 238,
+        "name": "CRPG",
+        "slug": "crpg"
+    },
+    {
+        "id": 91617,
+        "name": "gameplay feature: multiple endings",
+        "slug": "gameplay-feature-multiple-endings"
+    },
+    {
+        "id": 91634,
+        "name": "gameplay feature: drug addiction",
+        "slug": "gameplay-feature-drug-addiction"
+    },
+    {
+        "id": 91635,
+        "name": "gameplay feature: gambling",
+        "slug": "gameplay-feature-gambling"
+    },
+    {
+        "id": 91636,
+        "name": "gameplay feature: karma meter",
+        "slug": "gameplay-feature-karma-meter"
+    },
+    {
+        "id": 91637,
+        "name": "gameplay feature: radiation / radioactive poisoning",
+        "slug": "gameplay-feature-radiation-radioactive-poisoning"
+    },
+    {
+        "id": 91638,
+        "name": "gameplay feature: targeting system",
+        "slug": "gameplay-feature-targeting-system"
+    },
+    {
+        "id": 91639,
+        "name": "wasteland universe",
+        "slug": "wasteland-universe"
+    },
+    {
+        "id": 91640,
+        "name": "weapon: minigun",
+        "slug": "weapon-minigun"
+    },
+    {
+        "id": 91629,
+        "name": "fallout games",
+        "slug": "fallout-games"
+    },
+    {
+        "id": 91630,
+        "name": "game feature: hexagonal map",
+        "slug": "game-feature-hexagonal-map"
+    },
+    {
+        "id": 91631,
+        "name": "gameplay feature: auto-mapping",
+        "slug": "gameplay-feature-auto-mapping"
+    },
+    {
+        "id": 91632,
+        "name": "gameplay feature: character development - skill distribution",
+        "slug": "gameplay-feature-character-development-skill-distr"
+    },
+    {
+        "id": 91633,
+        "name": "gameplay feature: day / night cycle",
+        "slug": "gameplay-feature-day-night-cycle"
+    },
+    {
+        "id": 49955,
+        "name": "Puzzle Platformer",
+        "slug": "puzzle-platformer-2"
+    },
+    {
+        "id": 298,
+        "name": "Grid-Based Movement",
+        "slug": "grid-based-movement"
+    },
+    {
+        "id": 3319,
+        "name": "solitaire",
+        "slug": "solitaire"
+    },
+    {
+        "id": 325,
+        "name": "Foreign",
+        "slug": "foreign"
+    },
+    {
+        "id": 576,
+        "name": "Faith",
+        "slug": "faith"
+    },
+    {
+        "id": 320,
+        "name": "Sokoban",
+        "slug": "sokoban"
+    },
+    {
+        "id": 751,
+        "name": "Real time strategy",
+        "slug": "real-time-strategy"
+    },
+    {
+        "id": 288,
+        "name": "Interactive Fiction",
+        "slug": "interactive-fiction"
+    },
+    {
+        "id": 40844,
+        "name": "Oyun Kumandası Desteği",
+        "slug": "oyun-kumandas-destegi"
+    },
+    {
+        "id": 40848,
+        "name": "Steam Başarımları",
+        "slug": "steam-basarmlar"
+    },
+    {
+        "id": 40853,
+        "name": "Tek Oyunculu",
+        "slug": "tek-oyunculu"
+    },
+    {
+        "id": 623,
+        "name": "meat",
+        "slug": "meat"
+    },
+    {
+        "id": 7447,
+        "name": "russia",
+        "slug": "russia"
+    },
+    {
+        "id": 229,
+        "name": "3D Platformer",
+        "slug": "3d-platformer"
+    },
+    {
+        "id": 284,
+        "name": "Cult Classic",
+        "slug": "cult-classic"
+    },
+    {
+        "id": 308,
+        "name": "Bullet Time",
+        "slug": "bullet-time"
+    },
+    {
+        "id": 43576,
+        "name": "interactive movie",
+        "slug": "interactive-movie-2"
+    },
+    {
+        "id": 91217,
+        "name": "interactive game",
+        "slug": "interactive-game-2"
+    },
+    {
+        "id": 273,
+        "name": "Parody",
+        "slug": "parody"
+    },
+    {
+        "id": 196,
+        "name": "Procedural Generation",
+        "slug": "procedural-generation"
+    },
+    {
+        "id": 581,
+        "name": "Epic",
+        "slug": "epic"
+    },
+    {
+        "id": 774,
+        "name": "nature",
+        "slug": "nature"
+    },
+    {
+        "id": 4565,
+        "name": "offline",
+        "slug": "offline"
+    },
+    {
+        "id": 1529,
+        "name": "fight",
+        "slug": "fight"
+    },
+    {
+        "id": 241,
+        "name": "Space Sim",
+        "slug": "space-sim"
+    },
+    {
+        "id": 2232,
+        "name": "journey",
+        "slug": "journey"
+    },
+    {
+        "id": 1505,
+        "name": "ship",
+        "slug": "ship"
+    },
+    {
+        "id": 2405,
+        "name": "planets",
+        "slug": "planets"
+    },
+    {
+        "id": 6903,
+        "name": "galaxy",
+        "slug": "galaxy"
+    },
+    {
+        "id": 2062,
+        "name": "sun",
+        "slug": "sun"
+    },
+    {
+        "id": 5637,
+        "name": "sky",
+        "slug": "sky"
+    },
+    {
+        "id": 1309,
+        "name": "hero",
+        "slug": "hero"
+    },
+    {
+        "id": 835,
+        "name": "Swords",
+        "slug": "swords"
+    },
+    {
+        "id": 1221,
+        "name": "history",
+        "slug": "history"
+    },
+    {
+        "id": 56,
+        "name": "Shoot 'Em Up",
+        "slug": "shoot-em-up"
+    },
+    {
+        "id": 53,
+        "name": "Flight",
+        "slug": "flight"
+    },
+    {
+        "id": 129,
+        "name": "TrackIR",
+        "slug": "trackir"
+    },
+    {
+        "id": 31591,
+        "name": "tir",
+        "slug": "tir"
+    },
+    {
+        "id": 569,
+        "name": "Minigames",
+        "slug": "minigames"
+    },
+    {
+        "id": 834,
+        "name": "party-game",
+        "slug": "party-game"
+    },
+    {
+        "id": 1774,
+        "name": "spaceship",
+        "slug": "spaceship"
+    },
+    {
+        "id": 981,
+        "name": "battle",
+        "slug": "battle"
+    },
+    {
+        "id": 2889,
+        "name": "balance",
+        "slug": "balance"
+    },
+    {
+        "id": 460,
+        "name": "Endless",
+        "slug": "endless"
+    },
+    {
+        "id": 1125,
+        "name": "arena",
+        "slug": "arena"
+    },
+    {
+        "id": 5033,
+        "name": "tv",
+        "slug": "tv"
+    },
+    {
+        "id": 3621,
+        "name": "map",
+        "slug": "map"
+    },
+    {
+        "id": 8409,
+        "name": "hd",
+        "slug": "hd"
+    },
+    {
+        "id": 307,
+        "name": "Gaming",
+        "slug": "gaming"
+    },
+    {
+        "id": 219,
+        "name": "Politics",
+        "slug": "politics"
+    },
+    {
+        "id": 894,
+        "name": "Classes",
+        "slug": "classes"
+    },
+    {
+        "id": 314,
+        "name": "World War I",
+        "slug": "world-war-i"
+    },
+    {
+        "id": 5488,
+        "name": "tank",
+        "slug": "tank"
+    },
+    {
+        "id": 7452,
+        "name": "ww1",
+        "slug": "ww1"
+    },
+    {
+        "id": 808,
+        "name": "character",
+        "slug": "character"
+    },
+    {
+        "id": 820,
+        "name": "secrets",
+        "slug": "secrets"
+    },
+    {
+        "id": 163,
+        "name": "Co-op Campaign",
+        "slug": "co-op-campaign"
+    },
+    {
+        "id": 96,
+        "name": "Kickstarter",
+        "slug": "kickstarter"
+    },
+    {
+        "id": 59,
+        "name": "Crowdfunded",
+        "slug": "crowdfunded"
+    },
+    {
+        "id": 40908,
+        "name": "Einzelspieler",
+        "slug": "einzelspieler"
+    },
+    {
+        "id": 40906,
+        "name": "Steam-Errungenschaften",
+        "slug": "steam-errungenschaften"
+    },
+    {
+        "id": 40907,
+        "name": "Volle Controllerunterstützung",
+        "slug": "volle-controllerunterstutzung"
+    },
+    {
+        "id": 3117,
+        "name": "shoot",
+        "slug": "shoot"
+    },
+    {
+        "id": 91537,
+        "name": "HDR available",
+        "slug": "hdr-available"
+    },
+    {
+        "id": 3388,
+        "name": "waves",
+        "slug": "waves"
+    },
+    {
+        "id": 1427,
+        "name": "nightmare",
+        "slug": "nightmare"
+    },
+    {
+        "id": 3992,
+        "name": "clone",
+        "slug": "clone"
+    },
+    {
+        "id": 247,
+        "name": "Real Time Tactics",
+        "slug": "real-time-tactics"
+    },
+    {
+        "id": 42410,
+        "name": "LGBTQ+",
+        "slug": "lgbtq-2"
+    },
+    {
+        "id": 1709,
+        "name": "work",
+        "slug": "work"
+    },
+    {
+        "id": 7244,
+        "name": "historical-fiction",
+        "slug": "historical-fiction"
+    },
+    {
+        "id": 340,
+        "name": "in development",
+        "slug": "in-development"
+    },
+    {
+        "id": 52,
+        "name": "Arena Shooter",
+        "slug": "arena-shooter"
+    },
+    {
+        "id": 796,
+        "name": "plague",
+        "slug": "plague"
+    },
+    {
+        "id": 2326,
+        "name": "explore",
+        "slug": "explore"
+    },
+    {
+        "id": 177,
+        "name": "Voxel",
+        "slug": "voxel"
+    },
+    {
+        "id": 2191,
+        "name": "alien",
+        "slug": "alien"
+    },
+    {
+        "id": 1807,
+        "name": "water",
+        "slug": "water"
+    },
+    {
+        "id": 1068,
+        "name": "sea",
+        "slug": "sea"
+    },
+    {
+        "id": 1778,
+        "name": "food",
+        "slug": "food"
+    },
+    {
+        "id": 2296,
+        "name": "crash",
+        "slug": "crash"
+    },
+    {
+        "id": 4934,
+        "name": "health",
+        "slug": "health"
+    },
+    {
+        "id": 997,
+        "name": "island",
+        "slug": "island"
+    },
+    {
+        "id": 2906,
+        "name": "police",
+        "slug": "police"
+    },
+    {
+        "id": 1315,
+        "name": "room",
+        "slug": "room"
+    },
+    {
+        "id": 49992,
+        "name": "first person shooter",
+        "slug": "first-person-shooter-3"
+    },
+    {
+        "id": 37996,
+        "name": "tank controls",
+        "slug": "tank-controls"
+    },
+    {
+        "id": 40641,
+        "name": "survival-horror-game",
+        "slug": "survival-horror-game"
+    },
+    {
+        "id": 206,
+        "name": "Party-Based RPG",
+        "slug": "party-based-rpg"
+    },
+    {
+        "id": 425,
+        "name": "Single player only",
+        "slug": "single-player-only"
+    },
+    {
+        "id": 132,
+        "name": "Offroad",
+        "slug": "offroad"
+    },
+    {
+        "id": 878,
+        "name": "sword",
+        "slug": "sword"
+    },
+    {
+        "id": 1867,
+        "name": "puzzles",
+        "slug": "puzzles"
+    },
+    {
+        "id": 2129,
+        "name": "interactive",
+        "slug": "interactive"
+    },
+    {
+        "id": 1190,
+        "name": "hell",
+        "slug": "hell"
+    },
+    {
+        "id": 7152,
+        "name": "factory",
+        "slug": "factory"
+    },
+    {
+        "id": 677,
+        "name": "evolution",
+        "slug": "evolution"
+    },
+    {
+        "id": 1887,
+        "name": "moon",
+        "slug": "moon"
+    },
+    {
+        "id": 650,
+        "name": "prison",
+        "slug": "prison"
+    },
+    {
+        "id": 627,
+        "name": "Skeletons",
+        "slug": "skeletons"
+    },
+    {
+        "id": 240,
+        "name": "Martial Arts",
+        "slug": "martial-arts"
+    },
+    {
+        "id": 764,
+        "name": "slasher",
+        "slug": "slasher"
+    },
+    {
+        "id": 45201,
+        "name": "Remote Play Together",
+        "slug": "remote-play-together"
+    },
+    {
+        "id": 64326,
+        "name": "Постапокалипсис",
+        "slug": "postapokalipsis"
+    },
+    {
+        "id": 2491,
+        "name": "motorbike",
+        "slug": "motorbike"
+    },
+    {
+        "id": 49954,
+        "name": "Open World Survival Craft",
+        "slug": "open-world-survival-craft"
+    },
+    {
+        "id": 1753,
+        "name": "guns",
+        "slug": "guns"
+    },
+    {
+        "id": 1567,
+        "name": "bullet-time",
+        "slug": "bullet-time-2"
+    },
+    {
+        "id": 21738,
+        "name": "time-manipulation",
+        "slug": "time-manipulation-2"
+    },
+    {
+        "id": 1411,
+        "name": "build",
+        "slug": "build"
+    },
+    {
+        "id": 49960,
+        "name": "Life Sim",
+        "slug": "life-sim-2"
+    },
+    {
+        "id": 10766,
+        "name": "reality-based",
+        "slug": "reality-based"
+    },
+    {
+        "id": 975,
+        "name": "life",
+        "slug": "life"
+    },
+    {
+        "id": 28932,
+        "name": "family-simulator",
+        "slug": "family-simulator"
+    },
+    {
+        "id": 173,
+        "name": "Utilities",
+        "slug": "utilities"
+    },
+    {
+        "id": 156,
+        "name": "Software",
+        "slug": "software"
+    },
+    {
+        "id": 1333,
+        "name": "android",
+        "slug": "android"
+    },
+    {
+        "id": 223,
+        "name": "Photo Editing",
+        "slug": "photo-editing"
+    },
+    {
+        "id": 2311,
+        "name": "pc",
+        "slug": "pc"
+    },
+    {
+        "id": 3605,
+        "name": "tool",
+        "slug": "tool"
+    },
+    {
+        "id": 9621,
+        "name": "animated",
+        "slug": "animated"
+    },
+    {
+        "id": 2265,
+        "name": "desktop",
+        "slug": "desktop"
+    },
+    {
+        "id": 7425,
+        "name": "program",
+        "slug": "program"
+    },
+    {
+        "id": 2064,
+        "name": "aesthetic",
+        "slug": "aesthetic"
+    },
+    {
+        "id": 1926,
+        "name": "customizable",
+        "slug": "customizable"
+    },
+    {
+        "id": 6529,
+        "name": "wallpaper",
+        "slug": "wallpaper"
+    },
+    {
+        "id": 43188,
+        "name": "background",
+        "slug": "background"
+    },
+    {
+        "id": 11702,
+        "name": "cover-shooter",
+        "slug": "cover-shooter"
+    },
+    {
+        "id": 199,
+        "name": "Sniper",
+        "slug": "sniper"
+    },
+    {
+        "id": 37995,
+        "name": "fixed camera",
+        "slug": "fixed-camera-2"
+    },
+    {
+        "id": 1407,
+        "name": "race",
+        "slug": "race"
+    },
+    {
+        "id": 51020,
+        "name": "street racing",
+        "slug": "street-racing-2"
+    },
+    {
+        "id": 48354,
+        "name": "w10 exclusive",
+        "slug": "w10-exclusive"
+    },
+    {
+        "id": 980,
+        "name": "winter",
+        "slug": "winter"
+    },
+    {
+        "id": 1324,
+        "name": "autumn",
+        "slug": "autumn"
+    },
+    {
+        "id": 2161,
+        "name": "extreme",
+        "slug": "extreme"
+    },
+    {
+        "id": 263,
+        "name": "Mars",
+        "slug": "mars"
+    },
+    {
+        "id": 500,
+        "name": "Solo",
+        "slug": "solo"
+    },
+    {
+        "id": 46115,
+        "name": "LAN Co-op",
+        "slug": "lan-co-op"
+    },
+    {
+        "id": 499,
+        "name": "Team",
+        "slug": "team"
+    },
+    {
+        "id": 2723,
+        "name": "trees",
+        "slug": "trees"
+    },
+    {
+        "id": 6755,
+        "name": "wasteland",
+        "slug": "wasteland"
+    },
+    {
+        "id": 275,
+        "name": "Movie",
+        "slug": "movie"
+    },
+    {
+        "id": 657,
+        "name": "Dreams",
+        "slug": "dreams"
+    },
+    {
+        "id": 143,
+        "name": "RPGMaker",
+        "slug": "rpgmaker"
+    },
+    {
+        "id": 662,
+        "name": "RPG Maker",
+        "slug": "rpg-maker"
+    },
+    {
+        "id": 1055,
+        "name": "celeste",
+        "slug": "celeste"
+    },
+    {
+        "id": 994,
+        "name": "xna",
+        "slug": "xna"
+    },
+    {
+        "id": 1058,
+        "name": "miniboss",
+        "slug": "miniboss"
+    },
+    {
+        "id": 1056,
+        "name": "fna",
+        "slug": "fna"
+    },
+    {
+        "id": 1059,
+        "name": "towerfall",
+        "slug": "towerfall"
+    },
+    {
+        "id": 1057,
+        "name": "matt-makes-games",
+        "slug": "matt-makes-games"
+    },
+    {
+        "id": 29504,
+        "name": "great-graphics",
+        "slug": "great-graphics"
+    },
+    {
+        "id": 9706,
+        "name": "character-development",
+        "slug": "character-development"
+    },
+    {
+        "id": 974,
+        "name": "death",
+        "slug": "death"
+    },
+    {
+        "id": 782,
+        "name": "humor",
+        "slug": "humor"
+    },
+    {
+        "id": 27,
+        "name": "Warhammer 40K",
+        "slug": "warhammer-40k"
+    },
+    {
+        "id": 1752,
+        "name": "japanese",
+        "slug": "japanese"
+    },
+    {
+        "id": 822,
+        "name": "escape",
+        "slug": "escape"
+    },
+    {
+        "id": 3786,
+        "name": "sacrifice",
+        "slug": "sacrifice"
+    },
+    {
+        "id": 4458,
+        "name": "mafia",
+        "slug": "mafia"
+    },
+    {
+        "id": 21388,
+        "name": "1930s",
+        "slug": "1930s"
+    },
+    {
+        "id": 43575,
+        "name": "30s",
+        "slug": "30s"
+    },
+    {
+        "id": 297,
+        "name": "LEGO",
+        "slug": "lego"
+    },
+    {
+        "id": 342,
+        "name": "Conversation",
+        "slug": "conversation"
+    },
+    {
+        "id": 49970,
+        "name": "Vehicular Combat",
+        "slug": "vehicular-combat-2"
+    },
+    {
+        "id": 57691,
+        "name": "soft-body physics",
+        "slug": "soft-body-physics"
+    },
+    {
+        "id": 92376,
+        "name": "Aventure",
+        "slug": "aventure"
+    },
+    {
+        "id": 1652,
+        "name": "night",
+        "slug": "night"
+    },
+    {
+        "id": 214,
+        "name": "God Game",
+        "slug": "god-game"
+    },
+    {
+        "id": 262,
+        "name": "Capitalism",
+        "slug": "capitalism"
+    },
+    {
+        "id": 66667,
+        "name": "cs",
+        "slug": "cs"
+    },
+    {
+        "id": 31154,
+        "name": "counter-strke",
+        "slug": "counter-strke"
+    },
+    {
+        "id": 71007,
+        "name": "condition zero",
+        "slug": "condition-zero"
+    },
+    {
+        "id": 626,
+        "name": "cats",
+        "slug": "cats"
+    },
+    {
+        "id": 58268,
+        "name": "Котики",
+        "slug": "kotiki"
+    },
+    {
+        "id": 292,
+        "name": "Rome",
+        "slug": "rome"
+    },
+    {
+        "id": 228,
+        "name": "Programming",
+        "slug": "programming"
+    },
+    {
+        "id": 225,
+        "name": "Typing",
+        "slug": "typing"
+    },
+    {
+        "id": 59643,
+        "name": "Протагонистка",
+        "slug": "protagonistka"
+    },
+    {
+        "id": 892,
+        "name": "love",
+        "slug": "love"
+    },
+    {
+        "id": 316,
+        "name": "Mining",
+        "slug": "mining"
+    },
+    {
+        "id": 3626,
+        "name": "treasure",
+        "slug": "treasure"
+    },
+    {
+        "id": 688,
+        "name": "relationship",
+        "slug": "relationship"
+    },
+    {
+        "id": 2774,
+        "name": "learn",
+        "slug": "learn"
+    },
+    {
+        "id": 4451,
+        "name": "obstacles",
+        "slug": "obstacles"
+    },
+    {
+        "id": 2353,
+        "name": "delivery",
+        "slug": "delivery"
+    },
+    {
+        "id": 257,
+        "name": "Sailing",
+        "slug": "sailing"
+    },
+    {
+        "id": 127,
+        "name": "Card Game",
+        "slug": "card-game"
+    },
+    {
+        "id": 231,
+        "name": "Strategy RPG",
+        "slug": "strategy-rpg"
+    },
+    {
+        "id": 235,
+        "name": "Trading Card Game",
+        "slug": "trading-card-game"
+    },
+    {
+        "id": 3068,
+        "name": "future",
+        "slug": "future"
+    },
+    {
+        "id": 1328,
+        "name": "office",
+        "slug": "office"
+    },
+    {
+        "id": 1454,
+        "name": "quest",
+        "slug": "quest"
+    },
+    {
+        "id": 738,
+        "name": "Boss battle",
+        "slug": "boss-battle"
+    },
+    {
+        "id": 609,
+        "name": "Norse",
+        "slug": "norse"
+    },
+    {
+        "id": 91614,
+        "name": "playstation platinum range releases",
+        "slug": "playstation-platinum-range-releases"
+    },
+    {
+        "id": 7852,
+        "name": "1990s",
+        "slug": "1990s-2"
+    },
+    {
+        "id": 91618,
+        "name": "games made into books",
+        "slug": "games-made-into-books"
+    },
+    {
+        "id": 91619,
+        "name": "games made into comics",
+        "slug": "games-made-into-comics"
+    },
+    {
+        "id": 91620,
+        "name": "games made into movies",
+        "slug": "games-made-into-movies"
+    },
+    {
+        "id": 91621,
+        "name": "hudless games",
+        "slug": "hudless-games"
+    },
+    {
+        "id": 91622,
+        "name": "live action cut-scenes",
+        "slug": "live-action-cut-scenes"
+    },
+    {
+        "id": 91623,
+        "name": "setting: 1990s",
+        "slug": "setting-1990s"
+    },
+    {
+        "id": 91624,
+        "name": "setting: future now past",
+        "slug": "setting-future-now-past"
+    },
+    {
+        "id": 91625,
+        "name": "theme: law enforcement",
+        "slug": "theme-law-enforcement"
+    },
+    {
+        "id": 91626,
+        "name": "theme: zombies",
+        "slug": "theme-zombies"
+    },
+    {
+        "id": 91627,
+        "name": "video games turned into board / card games",
+        "slug": "video-games-turned-into-board-card-games"
+    },
+    {
+        "id": 91628,
+        "name": "white label releases",
+        "slug": "white-label-releases"
+    },
+    {
+        "id": 91615,
+        "name": "biohazard / resident evil series",
+        "slug": "biohazard-resident-evil-series"
+    },
+    {
+        "id": 91616,
+        "name": "boss fight books games",
+        "slug": "boss-fight-books-games"
+    },
+    {
+        "id": 574,
+        "name": "Dungeons & Dragons",
+        "slug": "dungeons-dragons"
+    },
+    {
+        "id": 3748,
+        "name": "terror",
+        "slug": "terror"
+    },
+    {
+        "id": 2406,
+        "name": "dance",
+        "slug": "dance"
+    },
+    {
+        "id": 1911,
+        "name": "bus",
+        "slug": "bus"
+    },
+    {
+        "id": 1396,
+        "name": "apocalypse",
+        "slug": "apocalypse"
+    },
+    {
+        "id": 625,
+        "name": "party",
+        "slug": "party"
+    },
+    {
+        "id": 162,
+        "name": "Board Game",
+        "slug": "board-game"
+    },
+    {
+        "id": 252,
+        "name": "Mouse only",
+        "slug": "mouse-only"
+    },
+    {
+        "id": 92375,
+        "name": "Jeu de rôle",
+        "slug": "jeu-de-role-2"
+    },
+    {
+        "id": 582,
+        "name": "Dog",
+        "slug": "dog"
+    },
+    {
+        "id": 92228,
+        "name": "Stereo Sound",
+        "slug": "stereo-sound"
+    },
+    {
+        "id": 92237,
+        "name": "Surround Sound",
+        "slug": "surround-sound-2"
+    },
+    {
+        "id": 300,
+        "name": "Vampire",
+        "slug": "vampire"
+    },
+    {
+        "id": 49964,
+        "name": "Action Roguelike",
+        "slug": "action-roguelike-2"
+    },
+    {
+        "id": 620,
+        "name": "Spooky",
+        "slug": "spooky"
+    },
+    {
+        "id": 832,
+        "name": "Halloween",
+        "slug": "halloween"
+    },
+    {
+        "id": 341,
+        "name": "leaderboards",
+        "slug": "leaderboards"
+    },
+    {
+        "id": 3103,
+        "name": "evil",
+        "slug": "evil"
+    },
+    {
+        "id": 925,
+        "name": "Coming Of Age",
+        "slug": "coming-of-age"
+    },
+    {
+        "id": 10215,
+        "name": "raid",
+        "slug": "raid"
+    },
+    {
+        "id": 14194,
+        "name": "deckbuilding",
+        "slug": "deckbuilding"
+    },
+    {
+        "id": 1079,
+        "name": "environment",
+        "slug": "environment"
+    },
+    {
+        "id": 3116,
+        "name": "fast",
+        "slug": "fast"
+    },
+    {
+        "id": 6801,
+        "name": "relaxation",
+        "slug": "relaxation"
+    },
+    {
+        "id": 749,
+        "name": "army",
+        "slug": "army"
+    },
+    {
+        "id": 3574,
+        "name": "laser",
+        "slug": "laser"
+    },
+    {
+        "id": 7316,
+        "name": "ww2",
+        "slug": "ww2"
+    },
+    {
+        "id": 8182,
+        "name": "planetary",
+        "slug": "planetary"
+    },
+    {
+        "id": 513,
+        "name": "coop",
+        "slug": "coop"
+    },
+    {
+        "id": 608,
+        "name": "Forest",
+        "slug": "forest"
+    },
+    {
+        "id": 610,
+        "name": "viking",
+        "slug": "viking"
+    },
+    {
+        "id": 5468,
+        "name": "qte",
+        "slug": "qte"
+    },
+    {
+        "id": 1234,
+        "name": "ambient",
+        "slug": "ambient"
+    },
+    {
+        "id": 140,
+        "name": "Hidden Object",
+        "slug": "hidden-object"
+    },
+    {
+        "id": 8234,
+        "name": "fall",
+        "slug": "fall"
+    },
+    {
+        "id": 277,
+        "name": "Villain Protagonist",
+        "slug": "villain-protagonist"
+    },
+    {
+        "id": 253,
+        "name": "Chess",
+        "slug": "chess"
+    },
+    {
+        "id": 1632,
+        "name": "cars",
+        "slug": "cars"
+    },
+    {
+        "id": 1497,
+        "name": "car",
+        "slug": "car"
+    },
+    {
+        "id": 20047,
+        "name": "lifestyle",
+        "slug": "lifestyle"
+    },
+    {
+        "id": 8847,
+        "name": "warfare",
+        "slug": "warfare"
+    },
+    {
+        "id": 47026,
+        "name": "nato",
+        "slug": "nato"
+    },
+    {
+        "id": 73236,
+        "name": "nato-forces",
+        "slug": "nato-forces"
+    },
+    {
+        "id": 73237,
+        "name": "special-ops",
+        "slug": "special-ops"
+    },
+    {
+        "id": 40858,
+        "name": "Other",
+        "slug": "other"
+    },
+    {
+        "id": 2156,
+        "name": "drift",
+        "slug": "drift"
+    },
+    {
+        "id": 8803,
+        "name": "racing-game",
+        "slug": "racing-game"
+    },
+    {
+        "id": 9336,
+        "name": "mexico",
+        "slug": "mexico"
+    },
+    {
+        "id": 5270,
+        "name": "festival",
+        "slug": "festival"
+    },
+    {
+        "id": 12669,
+        "name": "sprint",
+        "slug": "sprint"
+    },
+    {
+        "id": 27142,
+        "name": "photorealism",
+        "slug": "photorealism"
+    },
+    {
+        "id": 5777,
+        "name": "pack",
+        "slug": "pack"
+    },
+    {
+        "id": 2689,
+        "name": "rocket",
+        "slug": "rocket"
+    },
+    {
+        "id": 2838,
+        "name": "jet",
+        "slug": "jet"
+    },
+    {
+        "id": 5357,
+        "name": "comics",
+        "slug": "comics"
+    },
+    {
+        "id": 5144,
+        "name": "cerebral",
+        "slug": "cerebral"
+    },
+    {
+        "id": 327,
+        "name": "Voice Control",
+        "slug": "voice-control"
+    },
+    {
+        "id": 6465,
+        "name": "unique",
+        "slug": "unique"
+    },
+    {
+        "id": 704,
+        "name": "Traps",
+        "slug": "traps"
+    },
+    {
+        "id": 3612,
+        "name": "match",
+        "slug": "match"
+    },
+    {
+        "id": 1551,
+        "name": "ancient",
+        "slug": "ancient"
+    },
+    {
+        "id": 726,
+        "name": "japan",
+        "slug": "japan"
+    },
+    {
+        "id": 1846,
+        "name": "samurai",
+        "slug": "samurai"
+    },
+    {
+        "id": 7528,
+        "name": "campaign",
+        "slug": "campaign"
+    },
+    {
+        "id": 55766,
+        "name": " first-person shooter",
+        "slug": "first-person-shooter-4"
+    },
+    {
+        "id": 6046,
+        "name": "vikings",
+        "slug": "vikings"
+    },
+    {
+        "id": 46114,
+        "name": "Shared/Split Screen PvP",
+        "slug": "sharedsplit-screen-pvp"
+    },
+    {
+        "id": 6043,
+        "name": "communication",
+        "slug": "communication"
+    },
+    {
+        "id": 656,
+        "name": "suspense",
+        "slug": "suspense"
+    },
+    {
+        "id": 2180,
+        "name": "spider",
+        "slug": "spider"
+    },
+    {
+        "id": 3728,
+        "name": "memory",
+        "slug": "memory"
+    },
+    {
+        "id": 1303,
+        "name": "Shadows",
+        "slug": "shadows"
+    },
+    {
+        "id": 3597,
+        "name": "tablet",
+        "slug": "tablet"
+    },
+    {
+        "id": 2489,
+        "name": "dodge",
+        "slug": "dodge"
+    },
+    {
+        "id": 2743,
+        "name": "dash",
+        "slug": "dash"
+    },
+    {
+        "id": 753,
+        "name": "god",
+        "slug": "god"
+    },
+    {
+        "id": 2865,
+        "name": "girl",
+        "slug": "girl"
+    },
+    {
+        "id": 1715,
+        "name": "fox",
+        "slug": "fox"
+    },
+    {
+        "id": 806,
+        "name": "Automation",
+        "slug": "automation"
+    },
+    {
+        "id": 246,
+        "name": "Clicker",
+        "slug": "clicker"
+    },
+    {
+        "id": 230,
+        "name": "Tactical RPG",
+        "slug": "tactical-rpg"
+    },
+    {
+        "id": 332,
+        "name": "Intentionally Awkward Controls",
+        "slug": "intentionally-awkward-controls"
+    },
+    {
+        "id": 4388,
+        "name": "snowboarding",
+        "slug": "snowboarding"
+    },
+    {
+        "id": 207,
+        "name": "Rhythm",
+        "slug": "rhythm"
+    },
+    {
+        "id": 66537,
+        "name": "Арена-шутер",
+        "slug": "arena-shuter"
+    },
+    {
+        "id": 55321,
+        "name": "Outbreak Sim",
+        "slug": "outbreak-sim-2"
+    },
+    {
+        "id": 18701,
+        "name": "retro-futurism",
+        "slug": "retro-futurism"
+    },
+    {
+        "id": 310,
+        "name": "Runner",
+        "slug": "runner"
+    },
+    {
+        "id": 5222,
+        "name": "avoid",
+        "slug": "avoid"
+    },
+    {
+        "id": 4312,
+        "name": "colors",
+        "slug": "colors"
+    },
+    {
+        "id": 14813,
+        "name": "ancient-greece",
+        "slug": "ancient-greece"
+    },
+    {
+        "id": 1377,
+        "name": "hack-n-slash",
+        "slug": "hack-n-slash"
+    },
+    {
+        "id": 63274,
+        "name": "coop-game",
+        "slug": "coop-game"
+    },
+    {
+        "id": 73279,
+        "name": "visceral",
+        "slug": "visceral"
+    },
+    {
+        "id": 7936,
+        "name": "dramatic",
+        "slug": "dramatic"
+    },
+    {
+        "id": 104,
+        "name": "Wargame",
+        "slug": "wargame"
+    },
+    {
+        "id": 2896,
+        "name": "collectathon",
+        "slug": "collectathon"
+    },
+    {
+        "id": 604,
+        "name": "simple",
+        "slug": "simple"
+    },
+    {
+        "id": 1325,
+        "name": "kids",
+        "slug": "kids"
+    },
+    {
+        "id": 17921,
+        "name": "ship-customization",
+        "slug": "ship-customization"
+    },
+    {
+        "id": 2631,
+        "name": "cat",
+        "slug": "cat"
+    },
+    {
+        "id": 684,
+        "name": "children",
+        "slug": "children"
+    },
+    {
+        "id": 781,
+        "name": "flower",
+        "slug": "flower"
+    },
+    {
+        "id": 15772,
+        "name": "small-size",
+        "slug": "small-size"
+    },
+    {
+        "id": 45791,
+        "name": "wolly",
+        "slug": "wolly"
+    },
+    {
+        "id": 3803,
+        "name": "boss",
+        "slug": "boss"
+    },
+    {
+        "id": 712,
+        "name": "school",
+        "slug": "school"
+    },
+    {
+        "id": 2006,
+        "name": "castle",
+        "slug": "castle"
+    },
+    {
+        "id": 5506,
+        "name": "wizards",
+        "slug": "wizards"
+    },
+    {
+        "id": 930,
+        "name": "witch",
+        "slug": "witch"
+    },
+    {
+        "id": 71763,
+        "name": "Giocatore singolo",
+        "slug": "giocatore-singolo-2"
+    },
+    {
+        "id": 6752,
+        "name": "potions",
+        "slug": "potions"
+    },
+    {
+        "id": 88361,
+        "name": "Дети",
+        "slug": "deti"
+    },
+    {
+        "id": 71768,
+        "name": "Achievement di Steam",
+        "slug": "achievement-di-steam"
+    },
+    {
+        "id": 71769,
+        "name": "Supporto completo per i controller",
+        "slug": "supporto-completo-per-i-controller"
+    },
+    {
+        "id": 16105,
+        "name": "character-creation",
+        "slug": "character-creation"
+    },
+    {
+        "id": 88999,
+        "name": "Acquisti dall'applicazione",
+        "slug": "acquisti-dallapplicazione"
+    },
+    {
+        "id": 38557,
+        "name": "character-generator",
+        "slug": "character-generator"
+    },
+    {
+        "id": 37795,
+        "name": "exclusives",
+        "slug": "exclusives"
+    },
+    {
+        "id": 139,
+        "name": "Trains",
+        "slug": "trains"
+    },
+    {
+        "id": 1530,
+        "name": "animation",
+        "slug": "animation"
+    },
+    {
+        "id": 1689,
+        "name": "vector",
+        "slug": "vector"
+    },
+    {
+        "id": 958,
+        "name": "sprites",
+        "slug": "sprites"
+    },
+    {
+        "id": 5191,
+        "name": "black",
+        "slug": "black"
+    },
+    {
+        "id": 11181,
+        "name": "spriter",
+        "slug": "spriter"
+    },
+    {
+        "id": 161,
+        "name": "Golf",
+        "slug": "golf"
+    },
+    {
+        "id": 23,
+        "name": "Mini Golf",
+        "slug": "mini-golf"
+    },
+    {
+        "id": 2590,
+        "name": "fun",
+        "slug": "fun"
+    },
+    {
+        "id": 1105,
+        "name": "planet",
+        "slug": "planet"
+    },
+    {
+        "id": 920,
+        "name": "murder",
+        "slug": "murder"
+    },
+    {
+        "id": 4927,
+        "name": "fly",
+        "slug": "fly"
+    },
+    {
+        "id": 982,
+        "name": "run",
+        "slug": "run"
+    },
+    {
+        "id": 260,
+        "name": "GameMaker",
+        "slug": "gamemaker"
+    },
+    {
+        "id": 65224,
+        "name": "Conquistas Steam",
+        "slug": "conquistas-steam"
+    },
+    {
+        "id": 65222,
+        "name": "Um jogador",
+        "slug": "um-jogador"
+    },
+    {
+        "id": 59654,
+        "name": "multijogador",
+        "slug": "multijogador"
+    },
+    {
+        "id": 49060,
+        "name": "cooperativo",
+        "slug": "cooperativo"
+    },
+    {
+        "id": 65473,
+        "name": "Compras em aplicativo",
+        "slug": "compras-em-aplicativo"
+    },
+    {
+        "id": 65470,
+        "name": "JxJ",
+        "slug": "jxj"
+    },
+    {
+        "id": 65223,
+        "name": "Cooperativo online",
+        "slug": "cooperativo-online"
+    },
+    {
+        "id": 65471,
+        "name": "JxJ online",
+        "slug": "jxj-online"
+    },
+    {
+        "id": 76393,
+        "name": "Compatibilidade parcial com controle",
+        "slug": "compatibilidade-parcial-com-controle"
+    },
+    {
+        "id": 220,
+        "name": "Experimental",
+        "slug": "experimental"
+    },
+    {
+        "id": 290,
+        "name": "FMV",
+        "slug": "fmv"
+    },
+    {
+        "id": 412,
+        "name": "deathmatch",
+        "slug": "deathmatch"
+    },
+    {
+        "id": 2100,
+        "name": "violence",
+        "slug": "violence"
+    },
+    {
+        "id": 72047,
+        "name": "automap",
+        "slug": "automap"
+    },
+    {
+        "id": 786,
+        "name": "hentai",
+        "slug": "hentai"
+    },
+    {
+        "id": 65028,
+        "name": "sharply-dressed-demon-girls",
+        "slug": "sharply-dressed-demon-girls"
+    },
+    {
+        "id": 237,
+        "name": "Dark Comedy",
+        "slug": "dark-comedy"
+    },
+    {
+        "id": 1382,
+        "name": "duel",
+        "slug": "duel"
+    },
+    {
+        "id": 2168,
+        "name": "racer",
+        "slug": "racer"
+    },
+    {
+        "id": 4336,
+        "name": "invaders",
+        "slug": "invaders"
+    },
+    {
+        "id": 221,
+        "name": "Music-Based Procedural Generation",
+        "slug": "music-based-procedural-generation"
+    },
+    {
+        "id": 418,
+        "name": "2 players",
+        "slug": "2-players"
+    },
+    {
+        "id": 1539,
+        "name": "toy",
+        "slug": "toy"
+    },
+    {
+        "id": 3768,
+        "name": "demon",
+        "slug": "demon"
+    },
+    {
+        "id": 3758,
+        "name": "speed",
+        "slug": "speed"
+    },
+    {
+        "id": 663,
+        "name": "Ghosts",
+        "slug": "ghosts"
+    },
+    {
+        "id": 2518,
+        "name": "shotgun",
+        "slug": "shotgun"
+    },
+    {
+        "id": 2503,
+        "name": "intense",
+        "slug": "intense"
+    },
+    {
+        "id": 9299,
+        "name": "invisibility",
+        "slug": "invisibility"
+    },
+    {
+        "id": 13842,
+        "name": "rocket-launcher",
+        "slug": "rocket-launcher"
+    },
+    {
+        "id": 72502,
+        "name": "grenade-launcher",
+        "slug": "grenade-launcher"
+    },
+    {
+        "id": 27386,
+        "name": "ogres",
+        "slug": "ogres"
+    },
+    {
+        "id": 72503,
+        "name": "nailgun",
+        "slug": "nailgun"
+    },
+    {
+        "id": 32390,
+        "name": "arena-battle",
+        "slug": "arena-battle"
+    },
+    {
+        "id": 3566,
+        "name": "armor",
+        "slug": "armor"
+    },
+    {
+        "id": 7266,
+        "name": "lan-party",
+        "slug": "lan-party"
+    },
+    {
+        "id": 34268,
+        "name": "lan-game",
+        "slug": "lan-game"
+    },
+    {
+        "id": 72505,
+        "name": "invincibility",
+        "slug": "invincibility"
+    },
+    {
+        "id": 3631,
+        "name": "folk",
+        "slug": "folk"
+    },
+    {
+        "id": 49998,
+        "name": "Лутер-шутер",
+        "slug": "luter-shuter"
+    },
+    {
+        "id": 769,
+        "name": "virus",
+        "slug": "virus"
+    },
+    {
+        "id": 40855,
+        "name": "Un jugador",
+        "slug": "un-jugador"
+    },
+    {
+        "id": 40841,
+        "name": "Logros de Steam",
+        "slug": "logros-de-steam"
+    },
+    {
+        "id": 570,
+        "name": "Old School",
+        "slug": "old-school"
+    },
+    {
+        "id": 299,
+        "name": "Match 3",
+        "slug": "match-3"
+    },
+    {
+        "id": 575,
+        "name": "Logic",
+        "slug": "logic"
+    },
+    {
+        "id": 4880,
+        "name": "tabletop",
+        "slug": "tabletop"
+    },
+    {
+        "id": 2483,
+        "name": "nostalgia",
+        "slug": "nostalgia"
+    },
+    {
+        "id": 49950,
+        "name": "Card Battler",
+        "slug": "card-battler"
+    },
+    {
+        "id": 40938,
+        "name": "VR Support",
+        "slug": "vr-support-2"
+    },
+    {
+        "id": 885,
+        "name": "vive",
+        "slug": "vive"
+    },
+    {
+        "id": 9449,
+        "name": "interactive-movie",
+        "slug": "interactive-movie"
+    },
+    {
+        "id": 28220,
+        "name": "japanese-style",
+        "slug": "japanese-style"
+    },
+    {
+        "id": 1863,
+        "name": "challenge",
+        "slug": "challenge"
+    },
+    {
+        "id": 4881,
+        "name": "bugs",
+        "slug": "bugs"
+    },
+    {
+        "id": 714,
+        "name": "1-bit",
+        "slug": "1-bit"
+    },
+    {
+        "id": 1503,
+        "name": "mac-plus",
+        "slug": "mac-plus"
+    },
+    {
+        "id": 1502,
+        "name": "dinn",
+        "slug": "dinn"
+    },
+    {
+        "id": 1504,
+        "name": "obra",
+        "slug": "obra"
+    },
+    {
+        "id": 42713,
+        "name": "Asymmetric VR",
+        "slug": "asymmetric-vr"
+    },
+    {
+        "id": 1593,
+        "name": "Gravity",
+        "slug": "gravity"
+    },
+    {
+        "id": 2821,
+        "name": "tactics",
+        "slug": "tactics"
+    },
+    {
+        "id": 1252,
+        "name": "portal",
+        "slug": "portal"
+    },
+    {
+        "id": 5961,
+        "name": "portals",
+        "slug": "portals"
+    },
+    {
+        "id": 5332,
+        "name": "leaderboard",
+        "slug": "leaderboard"
+    },
+    {
+        "id": 4429,
+        "name": "bat",
+        "slug": "bat"
+    },
+    {
+        "id": 1746,
+        "name": "dialogue",
+        "slug": "dialogue"
+    },
+    {
+        "id": 2876,
+        "name": "square",
+        "slug": "square"
+    },
+    {
+        "id": 49967,
+        "name": "Colony Sim",
+        "slug": "colony-sim-2"
+    },
+    {
+        "id": 573,
+        "name": "Unforgiving",
+        "slug": "unforgiving"
+    },
+    {
+        "id": 9672,
+        "name": "mutants",
+        "slug": "mutants"
+    },
+    {
+        "id": 10821,
+        "name": "monster-trucks",
+        "slug": "monster-trucks"
+    },
+    {
+        "id": 33505,
+        "name": "factions",
+        "slug": "factions"
+    },
+    {
+        "id": 17792,
+        "name": "gangs",
+        "slug": "gangs"
+    },
+    {
+        "id": 9039,
+        "name": "powers",
+        "slug": "powers"
+    },
+    {
+        "id": 54912,
+        "name": "sadistic",
+        "slug": "sadistic"
+    },
+    {
+        "id": 73226,
+        "name": "gyrocopters",
+        "slug": "gyrocopters"
+    },
+    {
+        "id": 73227,
+        "name": "madmen",
+        "slug": "madmen"
+    },
+    {
+        "id": 55900,
+        "name": "Well-Written",
+        "slug": "well-written"
+    },
+    {
+        "id": 9583,
+        "name": "multiple-choice",
+        "slug": "multiple-choice"
+    },
+    {
+        "id": 1129,
+        "name": "art",
+        "slug": "art"
+    },
+    {
+        "id": 1787,
+        "name": "mobile",
+        "slug": "mobile"
+    },
+    {
+        "id": 2022,
+        "name": "wave",
+        "slug": "wave"
+    },
+    {
+        "id": 36949,
+        "name": "tomorrow-corporation",
+        "slug": "tomorrow-corporation"
+    },
+    {
+        "id": 9986,
+        "name": "summer",
+        "slug": "summer"
+    },
+    {
+        "id": 8846,
+        "name": "hot-seat",
+        "slug": "hot-seat-2"
+    },
+    {
+        "id": 3076,
+        "name": "rush",
+        "slug": "rush"
+    },
+    {
+        "id": 1716,
+        "name": "rabbit",
+        "slug": "rabbit"
+    },
+    {
+        "id": 4909,
+        "name": "village",
+        "slug": "village"
+    },
+    {
+        "id": 91610,
+        "name": "playstation the best series",
+        "slug": "playstation-the-best-series"
+    },
+    {
+        "id": 91604,
+        "name": "console generation exclusives: playstation",
+        "slug": "console-generation-exclusives-playstation"
+    },
+    {
+        "id": 91609,
+        "name": "playstation greatest hits releases",
+        "slug": "playstation-greatest-hits-releases"
+    },
+    {
+        "id": 91611,
+        "name": "crash bandicoot series",
+        "slug": "crash-bandicoot-series"
+    },
+    {
+        "id": 91612,
+        "name": "gameplay feature: game completion percentage",
+        "slug": "gameplay-feature-game-completion-percentage"
+    },
+    {
+        "id": 91613,
+        "name": "games that include a playable demo of another game",
+        "slug": "games-that-include-a-playable-demo-of-another-game"
+    },
+    {
+        "id": 1461,
+        "name": "battle-royale",
+        "slug": "battle-royale"
+    },
+    {
+        "id": 6350,
+        "name": "hilarious",
+        "slug": "hilarious"
+    },
+    {
+        "id": 49951,
+        "name": "Automobile Sim",
+        "slug": "automobile-sim"
+    },
+    {
+        "id": 202,
+        "name": "Artificial Intelligence",
+        "slug": "artificial-intelligence"
+    },
+    {
+        "id": 137,
+        "name": "On-Rails Shooter",
+        "slug": "on-rails-shooter"
+    },
+    {
+        "id": 7424,
+        "name": "isomentric",
+        "slug": "isomentric"
+    },
+    {
+        "id": 815,
+        "name": "sega",
+        "slug": "sega"
+    },
+    {
+        "id": 294,
+        "name": "Gambling",
+        "slug": "gambling"
+    },
+    {
+        "id": 4851,
+        "name": "box",
+        "slug": "box"
+    },
+    {
+        "id": 3720,
+        "name": "numbers",
+        "slug": "numbers"
+    },
+    {
+        "id": 7339,
+        "name": "santa",
+        "slug": "santa"
+    },
+    {
+        "id": 4144,
+        "name": "craft",
+        "slug": "craft"
+    },
+    {
+        "id": 3680,
+        "name": "defense",
+        "slug": "defense"
+    },
+    {
+        "id": 993,
+        "name": "Archery",
+        "slug": "archery"
+    },
+    {
+        "id": 7082,
+        "name": "fighter",
+        "slug": "fighter"
+    },
+    {
+        "id": 6706,
+        "name": "connect",
+        "slug": "connect"
+    },
+    {
+        "id": 1986,
+        "name": "ice",
+        "slug": "ice"
+    },
+    {
+        "id": 591,
+        "name": "Unreal Engine",
+        "slug": "unreal-engine"
+    },
+    {
+        "id": 1726,
+        "name": "disney",
+        "slug": "disney"
+    },
+    {
+        "id": 94,
+        "name": "Design & Illustration",
+        "slug": "design-illustration"
+    },
+    {
+        "id": 92,
+        "name": "Game Development",
+        "slug": "game-development"
+    },
+    {
+        "id": 261,
+        "name": "Software Training",
+        "slug": "software-training"
+    },
+    {
+        "id": 19085,
+        "name": "chainsaw",
+        "slug": "chainsaw"
+    },
+    {
+        "id": 6524,
+        "name": "cover",
+        "slug": "cover"
+    },
+    {
+        "id": 315,
+        "name": "Werewolves",
+        "slug": "werewolves"
+    },
+    {
+        "id": 653,
+        "name": "Dogs",
+        "slug": "dogs"
+    },
+    {
+        "id": 2595,
+        "name": "click",
+        "slug": "click"
+    },
+    {
+        "id": 1796,
+        "name": "dungeon",
+        "slug": "dungeon"
+    },
+    {
+        "id": 740,
+        "name": "demo",
+        "slug": "demo"
+    },
+    {
+        "id": 1618,
+        "name": "jungle",
+        "slug": "jungle"
+    },
+    {
+        "id": 777,
+        "name": "meme",
+        "slug": "meme"
+    },
+    {
+        "id": 4270,
+        "name": "transportation",
+        "slug": "transportation"
+    },
+    {
+        "id": 73349,
+        "name": "puzzle-elements",
+        "slug": "puzzle-elements"
+    },
+    {
+        "id": 72908,
+        "name": "dark-sci-fi",
+        "slug": "dark-sci-fi"
+    },
+    {
+        "id": 47525,
+        "name": "1st-person-perspective",
+        "slug": "1st-person-perspective"
+    },
+    {
+        "id": 73361,
+        "name": "dark sci-fi",
+        "slug": "dark-sci-fi-2"
+    },
+    {
+        "id": 1086,
+        "name": "plants",
+        "slug": "plants"
+    },
+    {
+        "id": 1015,
+        "name": "survive",
+        "slug": "survive"
+    },
+    {
+        "id": 5190,
+        "name": "artsy",
+        "slug": "artsy"
+    },
+    {
+        "id": 2384,
+        "name": "rock",
+        "slug": "rock"
+    },
+    {
+        "id": 999,
+        "name": "shark",
+        "slug": "shark"
+    }
+]

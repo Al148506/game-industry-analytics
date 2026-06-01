@@ -81,3 +81,24 @@ CREATE TABLE IF NOT EXISTS game_stores (
         FOREIGN KEY (store_id)
         REFERENCES stores(id)
 );
+
+CREATE TABLE IF NOT EXISTS tags (
+    id INTEGER PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    slug VARCHAR(150) NOT NULL
+);
+
+CREATE TABLE IF NOT EXISTS game_tags (
+    game_id INTEGER NOT NULL,
+    tag_id INTEGER NOT NULL,
+
+    PRIMARY KEY (game_id, tag_id),
+
+    CONSTRAINT fk_game_tag
+        FOREIGN KEY (game_id)
+        REFERENCES games(id),
+
+    CONSTRAINT fk_tag
+        FOREIGN KEY (tag_id)
+        REFERENCES tags(id)
+);
