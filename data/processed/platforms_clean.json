@@ -1,0 +1,162 @@
+[
+    {
+        "id": 187,
+        "name": "PlayStation 5",
+        "slug": "playstation5"
+    },
+    {
+        "id": 186,
+        "name": "Xbox Series S/X",
+        "slug": "xbox-series-x"
+    },
+    {
+        "id": 16,
+        "name": "PlayStation 3",
+        "slug": "playstation3"
+    },
+    {
+        "id": 4,
+        "name": "PC",
+        "slug": "pc"
+    },
+    {
+        "id": 18,
+        "name": "PlayStation 4",
+        "slug": "playstation4"
+    },
+    {
+        "id": 14,
+        "name": "Xbox 360",
+        "slug": "xbox360"
+    },
+    {
+        "id": 1,
+        "name": "Xbox One",
+        "slug": "xbox-one"
+    },
+    {
+        "id": 5,
+        "name": "macOS",
+        "slug": "macos"
+    },
+    {
+        "id": 7,
+        "name": "Nintendo Switch",
+        "slug": "nintendo-switch"
+    },
+    {
+        "id": 6,
+        "name": "Linux",
+        "slug": "linux"
+    },
+    {
+        "id": 21,
+        "name": "Android",
+        "slug": "android"
+    },
+    {
+        "id": 80,
+        "name": "Xbox",
+        "slug": "xbox-old"
+    },
+    {
+        "id": 19,
+        "name": "PS Vita",
+        "slug": "ps-vita"
+    },
+    {
+        "id": 3,
+        "name": "iOS",
+        "slug": "ios"
+    },
+    {
+        "id": 171,
+        "name": "Web",
+        "slug": "web"
+    },
+    {
+        "id": 10,
+        "name": "Wii U",
+        "slug": "wii-u"
+    },
+    {
+        "id": 8,
+        "name": "Nintendo 3DS",
+        "slug": "nintendo-3ds"
+    },
+    {
+        "id": 15,
+        "name": "PlayStation 2",
+        "slug": "playstation2"
+    },
+    {
+        "id": 106,
+        "name": "Dreamcast",
+        "slug": "dreamcast"
+    },
+    {
+        "id": 55,
+        "name": "Classic Macintosh",
+        "slug": "macintosh"
+    },
+    {
+        "id": 105,
+        "name": "GameCube",
+        "slug": "gamecube"
+    },
+    {
+        "id": 11,
+        "name": "Wii",
+        "slug": "wii"
+    },
+    {
+        "id": 9,
+        "name": "Nintendo DS",
+        "slug": "nintendo-ds"
+    },
+    {
+        "id": 83,
+        "name": "Nintendo 64",
+        "slug": "nintendo-64"
+    },
+    {
+        "id": 27,
+        "name": "PlayStation",
+        "slug": "playstation1"
+    },
+    {
+        "id": 107,
+        "name": "SEGA Saturn",
+        "slug": "sega-saturn"
+    },
+    {
+        "id": 24,
+        "name": "Game Boy Advance",
+        "slug": "game-boy-advance"
+    },
+    {
+        "id": 17,
+        "name": "PSP",
+        "slug": "psp"
+    },
+    {
+        "id": 13,
+        "name": "Nintendo DSi",
+        "slug": "nintendo-dsi"
+    },
+    {
+        "id": 166,
+        "name": "Commodore / Amiga",
+        "slug": "commodore-amiga"
+    },
+    {
+        "id": 43,
+        "name": "Game Boy Color",
+        "slug": "game-boy-color"
+    },
+    {
+        "id": 12,
+        "name": "Neo Geo",
+        "slug": "neogeo"
+    }
+]
